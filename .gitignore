@@ -1,0 +1,12 @@
+# Compiled output
+build/
+
+# Object files
+*.o
+
+# macOS
+.DS_Store
+
+# Visual Studio Code
+
+.vscode/
