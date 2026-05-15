@@ -1,4 +1,4 @@
-# WasmEdge LFX 2026 Term 2 Practice Pre-test 2 Exercises
+# WasmEdge LFX 2026 Term 2 Practice
 
 These exercises are not official WasmEdge or LFX pre-tests. They are plausible practice tasks based on the public project issue:
 
